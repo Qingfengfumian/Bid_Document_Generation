@@ -57,7 +57,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/tender-ai/tender-cli.git
+git clone https://github.com/Qingfengfumian/Bid_Document_Generation.git
 cd tender-cli
 
 # 安装依赖
@@ -399,7 +399,7 @@ $ tender
 ### 开发安装
 ```bash
 # 克隆项目
-git clone https://github.com/tender-ai/tender-cli.git
+git clone https://github.com/Qingfengfumian/Bid_Document_Generation.git
 cd tender-cli
 
 # 创建虚拟环境
@@ -454,13 +454,3 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
-
-## 📞 支持
-
-- 📧 Email: team@tender-ai.com
-- 🐛 Issues: [GitHub Issues](https://github.com/tender-ai/tender-cli/issues)
-- 📖 文档: [在线文档](https://tender-ai.github.io/tender-cli)
-
----
-
-**Tender AI - 让标书制作变得简单智能** 🚀
